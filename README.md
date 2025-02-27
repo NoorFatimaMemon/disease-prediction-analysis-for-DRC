@@ -1,6 +1,6 @@
-# Disease Prediction and Analysis for Democratic Republic of Congo (2024)
+# Predictive Analysis of Cholera Disease Outbreaks
 
-This project uses time series forecasting methods (Prophet, ARIMA, SARIMAX) to predict disease cases and deaths for the year 2024 in the Democratic Republic of Congo. The goal is to forecast specific disease-related metrics in children and the general population, based on historical data.
+This project uses time series forecasting methods (Prophet, ARIMA, SARIMAX) to predict disease cases and deaths in the Democratic Republic of Congo for 2024. Based on historical data, the goal is to forecast specific disease-related metrics in children and the general population.
 
 ## Project Overview
 
