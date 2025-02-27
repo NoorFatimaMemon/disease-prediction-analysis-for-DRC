@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.2.0
+matplot==0.1.9
+matplotlib==3.9.2
+matplotlib-inline==0.1.6
+seaborn==0.13.2
+prophet==1.1.5
+statsmodels==0.14.2
+sklearn-som==1.1.0
+pmdarima==2.0.4
